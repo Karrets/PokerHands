@@ -27,3 +27,6 @@ hs_err_pid*
 
 # Maven output files
 target/
+
+# Java Doc
+JavaDoc/
